@@ -4,13 +4,13 @@ Empower Your Tomorrow: Unleash the Energy Within! Embrace the transformative pow
 ## Capstone Project Bangkit
 | Student ID | Member | Path | University | Contacts |
 | :--------: | :----: | :--: | :--------: | :------: |
-| M258BSY0502 | Ulul Fikri | Machine Learning | Universitas Muhammadiyah Malang |
-| M004BSX0814 | Nurul Rofidhatul Ilmi | Machine Learning | Institut Teknologi Sepuluh Nopember |
-| M258BSY1014 | Muhamad Fajar | Machine Learning | Universitas Muhammadiyah Malang |
-| C159BSY3674 | Baihaqi Asshiddiqie | Cloud Computing | Universitas Teknologi Digital Indonesia |
-| C159BSX4117 |	Taree Anisah Herdanawati | Cloud Computing | Universitas Teknologi Digital Indonesia |
-| A258BSY2203 | Muhammad Arvanda Fildza Aliffa Putra | Mobile Development | Universitas Muhammadiyah Malang |
-| A268BSY2815 | Muhammad Aji Saputra | Mobile Development | Universitas Muhammadiyah Surakarta |
+| M258BSY0502 | Ulul Fikri | Machine Learning | Universitas Muhammadiyah Malang | [LinkedIn](https://www.linkedin.com/in/ulul-fikri-a4081b296/) or [GitHub](https://github.com/mustarion)
+| M004BSX0814 | Nurul Rofidhatul Ilmi | Machine Learning | Institut Teknologi Sepuluh Nopember | [LinkedIn](https://www.linkedin.com/in/nurul-rofidhatul-ilmi-17582215a/) or [GitHub](https://github.com/rofion)
+| M258BSY1014 | Muhamad Fajar | Machine Learning | Universitas Muhammadiyah Malang | [LinkedIn](https://www.linkedin.com/in/muhamad-fajar-89a890276/) or [GitHub](https://github.com/muhamadfajarr-hub)
+| C159BSY3674 | Baihaqi Asshiddiqie | Cloud Computing | Universitas Teknologi Digital Indonesia | [LinkedIn](https://www.linkedin.com/in/baihaqi-asshiddiqie-460921290/) or [GitHub](https://github.com/haqi111)
+| C159BSX4117 |	Taree Anisah Herdanawati | Cloud Computing | Universitas Teknologi Digital Indonesia | [LinkedIn](http://www.linkedin.com/in/tareeanisah) or [GitHub](https://github.com/Reeansh)
+| A258BSY2203 | Muhammad Arvanda Fildza Aliffa Putra | Mobile Development | Universitas Muhammadiyah Malang | [LinkedIn] or [GitHub]
+| A268BSY2815 | Muhammad Aji Saputra | Mobile Development | Universitas Muhammadiyah Surakarta | [LinkedIn](http://linkedin.com/in/muhammadajisaputra/) or [GitHub](https://github.com/achidoang)
 
 ## Project Mentors
 - Fredyka Maulana - Android/Mobile Development
