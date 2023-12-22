@@ -22,3 +22,7 @@ Empower Your Tomorrow: Unleash the Energy Within! Embrace the transformative pow
 | Machine Learning | Finding or creating a dataset | Re-evaluating the dataset | Initiating the construction of the machine learning model and training model | Evaluating and optimizing machine learning model | Final testing and deployment |
 | Cloud Computing | Involves a detailed assessment of the application's functionalities and features | Crafting a cloud architecture based on app functionality | Initiates API testing | Performance testing across the entire application | Final testing and deployment |
 | Mobile Development | Research for UI/UX | Developing the front-end | Setting up the back-end of the application and integrating it with API | Performing testing and evaluation | Final testing and deployment |
+
+
+## Disclaimer
+-   This project is created for educational purpose as the requirement to graduate from [**_Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka_**.](https://www.linkedin.com/company/bangkit-academy/mycompany/)
