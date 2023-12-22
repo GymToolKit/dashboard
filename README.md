@@ -8,13 +8,13 @@ Empower Your Tomorrow: Unleash the Energy Within! Embrace the transformative pow
 | M004BSX0814 | Nurul Rofidhatul Ilmi | Machine Learning | Institut Teknologi Sepuluh Nopember | [LinkedIn](https://www.linkedin.com/in/nurul-rofidhatul-ilmi-17582215a/) or [GitHub](https://github.com/rofion)
 | M258BSY1014 | Muhamad Fajar | Machine Learning | Universitas Muhammadiyah Malang | [LinkedIn](https://www.linkedin.com/in/muhamad-fajar-89a890276/) or [GitHub](https://github.com/muhamadfajarr-hub)
 | C159BSY3674 | Baihaqi Asshiddiqie | Cloud Computing | Universitas Teknologi Digital Indonesia | [LinkedIn](https://www.linkedin.com/in/baihaqi-asshiddiqie-460921290/) or [GitHub](https://github.com/haqi111)
-| C159BSX4117 |	Taree Anisah Herdanawati | Cloud Computing | Universitas Teknologi Digital Indonesia | [LinkedIn](http://www.linkedin.com/in/tareeanisah) or [GitHub](https://github.com/Reeansh)
-| A258BSY2203 | Muhammad Arvanda Fildza Aliffa Putra | Mobile Development | Universitas Muhammadiyah Malang | [LinkedIn] or [GitHub]
+| C159BSX4117 |	Taree Anisah Herdanawati | Cloud Computing | Universitas Teknologi Digital Indonesia | [LinkedIn](http://www.linkedin.com/in/tareeanisah/) or [GitHub](https://github.com/Reeansh)
+| A258BSY2203 | Muhammad Arvanda Fildza Aliffa Putra | Mobile Development | Universitas Muhammadiyah Malang | [LinkedIn](https://www.linkedin.com/in/muhammad-arvanda-4a2698225/) or [GitHub](https://http://github.com/arvandza)
 | A268BSY2815 | Muhammad Aji Saputra | Mobile Development | Universitas Muhammadiyah Surakarta | [LinkedIn](http://linkedin.com/in/muhammadajisaputra/) or [GitHub](https://github.com/achidoang)
 
 ## Project Mentors
-- Fredyka Maulana - Android/Mobile Development
-- Yasmin - Business/Commerce/Startup
+- [Fredyka Maulana](https://www.linkedin.com/in/fredyka-maulana-595a86178/) - Android/Mobile Development
+- [Yasmin](https://www.linkedin.com/in/yasmin-shahab-93609545/) - Business/Commerce/Startup
 
 ## Timeline
 | Team | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 |
