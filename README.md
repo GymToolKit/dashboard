@@ -1,4 +1,4 @@
-# GymToolkit
+# GymToolKit
 Empower Your Tomorrow: Unleash the Energy Within! Embrace the transformative power of exercise and embark on a journey towards a healthier, happier you. Let every step, every rep, and every drop of sweat be a testament to your commitment to a vibrant life. It's not just a workout; it's a declaration of self-love and resilience. Today, take the first step towards a healthier, more energetic future. Your body, mind, and spirit will thank you for the investment in your well-being. Seize the moment, embrace the vitality, and sculpt a healthier you. The power to transform is in your hands – let's move towards a stronger, more radiant life together!
 
 ## Capstone Project Bangkit
